@@ -1,0 +1,43 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "sku": 18644119330491312,
+        "title": "NIVEA - Refining Peel Off Mask",
+        "description": "NIVEA - Refining Peel Off Mask",
+        "available": ["Yes"],
+        "price": 10,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 2,
+        "sku": 11854078013954528,
+        "title": "NIVEA - Make Up Clear ",
+        "description": "Cleansing Milk",
+        "available": ["Yes"],
+        "price": 14.9,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 3,
+        "sku": 876661122392077,
+        "title": "NIVEA - White Pearl ",
+        "description": "Day Serum Cream SPF33 PA+++",
+        "available": ["Yes"],
+        "price": 14.9,
+        "isFreeShipping": true
+      },
+  
+      {
+        "id": 4,
+        "sku": 9197907543445677,
+        "title": "NIVEA - Anti perspirant roll on",
+        "description": "Extra Whitening Roll On",
+        "available": ["Yes"],
+        "price": 25.9,
+        "isFreeShipping": false
+      }
+    ]
+}
